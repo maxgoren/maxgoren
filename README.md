@@ -3,7 +3,7 @@
 - I'm also keenly interested data structures and algorithms, in particular high performance search structures and balanced search trees.
 - I work as a Backend Software Engineer in Boston, MA developing mostly Java Springboot applications.
 - I maintain a blog for all things software engineering at http://www.maxgcoding.com and much of what is hosted here is originally discussed there.
-- Any code shared here in my personal repo's, or as a Gist are made available under the MIT License, and must be attributed as such.
+- Any code shared here in my personal repo's, or as a Gist are made available under the MIT License, and if used should be attributed as such with respect to the author.
 
 <!---
 maxgoren/maxgoren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
